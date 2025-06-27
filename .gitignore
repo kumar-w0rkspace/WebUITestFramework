@@ -6,9 +6,6 @@
 # Maven build output
 target/
 
-# Logs
-*.log
-logs/
 
 # OS-specific
 .DS_Store
