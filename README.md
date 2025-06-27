@@ -25,9 +25,11 @@ This framework emphasizes:
 
 📌 More features and improvements will be added as the framework matures.
 
-> 🔍 Note: The `reports/demo-testng-output/` folder is added only for demonstration purposes.  
-> This shows what the TestNG native output looks like after a successful test suite execution.
-
+> 🔍 Note: These folders are added only for demonstration purposes.
+> `reports/demo-testng-output/`   
+> `demo_logs` 
+> 
+> This shows what the native output looks like after a successful test execution.
 ---
 
 ## 🚀 Key Features
