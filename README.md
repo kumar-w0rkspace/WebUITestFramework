@@ -71,16 +71,22 @@ This framework emphasizes:
 AutomationTest_PracticeSite/
 ├── pom.xml                    # Maven build configuration
 ├── README.md                  # Project documentation
+├── .gitignore                 # Excludes logs, target, test-output, etc.
 ├── uBlock.xpi                 # Firefox adblocker extension for test stability
+
 ├── test-output/               # Auto-generated TestNG reports (GIT IGNORED)
-├── logs/                      # Log4j2 execution logs (GIT IGNORED)
-│   └── sampleLog4j2_TXT       # Snapshot of Log4j2 reports in text for demo
+
+├── demo-logs/                 # Static Log4j2 demo logs
+│   └── sampleLog4j2.txt       # Snapshot of Log4j2 logs (for demo)
+
 ├── reports/                   # ExtentReports HTML output
-│   └── demo-testng-outputs/   # Static demo: index.html, emailable-report.html
+│   └── demo-testng-outputs/   # Static demo: index.html, emailable-report.html (for demo)
+
 ├── screenshots/               # Screenshots captured during test execution
 ├── testCasesImages/           # Static image assets for test steps
 ├── testData/                  # Excel or CSV files for data-driven testing
 ├── target/                    # Maven compiled classes and reports (GIT IGNORED)
+
 ├── src/
 │   └── test/
 │       ├── java/
@@ -91,7 +97,9 @@ AutomationTest_PracticeSite/
 │       │           ├── testCases/      
 │       │           └── utilities/      
 │       └── resources/
-│           └── log4j2.xml     # Log4j2 configuration
+│           ├── config.properties    # Centralized framework config
+│           └── log4j2.xml           # Logging configuration for Log4j2
+
 
 ```
 
