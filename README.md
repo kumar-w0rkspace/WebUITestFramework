@@ -43,6 +43,8 @@ This project is created for **learning**, **demonstration**, and **portfolio pur
 
 ## 🏗️ Project Structure
 
+<details> <summary><strong>📁 Project Structure</strong> (click to expand)</summary>
+
 AutomationTest_PracticeSite/
 ├── pom.xml 		# Maven build configuration
 ├── README.md 		# Project documentation
@@ -66,6 +68,8 @@ AutomationTest_PracticeSite/
 │ └── test/
 │ └── resources/
 │ └── log4j2.xml 	 # Log4j2 configuration file
+
+</details>
 
 ## ⚙️ Tools & Technologies Used
 
