@@ -8,9 +8,11 @@
 
 
 A robust, scalable, and modular `Selenium` Test Automation Framework built using `Java`, following the Page Object Model (POM) design pattern, integrated with industry-standard tools like `TestNG`, `Log4j2`, `ExtentReports`, and `Apache POI`.
+
 This framework reflects real-world best practices in UI automation, emphasizing clean code architecture, `data-driven testing`, `modular design`, and `maintainable reporting/logging` structures. It serves as a comprehensive learning and demonstration project for QA professionals and developers aiming to understand or showcase a fully integrated test automation solution.
 
 The project is ideal for:
+
 🔹 Learning purposes: Understand how each tool fits into a complete framework  
 🔹 Professional portfolios: Showcase framework skills during interviews or online  
 🔹 Rapid setup: Use it as a boilerplate to kickstart enterprise-level automation projects  
