@@ -20,19 +20,19 @@ The project is ideal for:
 ## 🚀 Key Features
 
 ✅ **Selenium WebDriver with Page Object Model (POM)**  
-- Clean separation of page logic using the Page Object Design Pattern  
+- Clean separation of page logic using the `Page Object Design` Pattern  
 - Promotes maintainability and reusability of code
 
 ✅ **TestNG Integration**  
-- Supports parallel test execution, grouping, and prioritization  
-- Includes `@Annotations`, properties and parameterization features
+- Supports `parallel test execution`, `grouping`, and `prioritization`  
+- Includes `@Annotations`, `properties` and `parameterization` features
 
 ✅ **Apache POI for Excel-based Data-Driven Testing**  
 - External test data managed using Excel sheets  
-- Dynamic form-filling and validation using Apache POI
+- Dynamic form-filling and validation using `Apache POI`
 
 ✅ **Log4j2 for Logging**  
-- Custom logger integrated into all major components  
+- Custom `logger` integrated into all major components  
 - Logs generated at different levels: INFO, DEBUG, ERROR, etc.
 
 ✅ **ExtentReports for Advanced Test Reporting**  
@@ -53,7 +53,6 @@ The project is ideal for:
 
 ## 🏗️ Project Structure
 
-<details> <summary>🛠️ Click to view correct Markdown</summary>
 ```
 AutomationTest_PracticeSite/
 ├── pom.xml             # Maven build configuration
@@ -80,7 +79,6 @@ AutomationTest_PracticeSite/
 │           └── log4j2.xml    # Log4j2 configuration file
 
 ```
-</details>
 
 
 ## ⚙️ Tools & Technologies Used
