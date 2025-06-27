@@ -1,13 +1,11 @@
 # Automation Test Practice Site
-<p align="center">
+<p>
   <a href="https://automationexercise.com/">
     <img src="https://automationexercise.com/static/images/home/logo.png" alt="Automation Practice Logo" width="250"/>
+    <a href="https://automationexercise.com/">Visit the Automation Practice Site</a>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://automationexercise.com/">Visit the Automation Practice Site</a>
-</p>
 
 A robust, scalable, and modular Selenium Test Automation Framework built using Java, following the Page Object Model (POM) design pattern, integrated with industry-standard tools like TestNG, Log4j2, ExtentReports, and Apache POI.
 
