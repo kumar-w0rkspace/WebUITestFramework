@@ -7,9 +7,9 @@
 <p><a href="https://automationexercise.com/">Visit the Automation Practice Site</a></p>
 
 
-A robust, scalable, and modular `Selenium` Test Automation Framework built using `Java`, following the Page Object Model (POM) design pattern, integrated with industry-standard tools like `TestNG, Log4j2, ExtentReports, and Apache POI`.
+A robust, scalable, and modular `Selenium` Test Automation Framework built using `Java`, following the Page Object Model (POM) design pattern, integrated with industry-standard tools like `TestNG`, `Log4j2`, `ExtentReports`, and `Apache POI`.
 
-This framework reflects real-world best practices in UI automation, emphasizing clean code architecture, data-driven testing, modular design, and maintainable reporting/logging structures. It serves as a comprehensive learning and demonstration project for QA professionals and developers aiming to understand or showcase a fully integrated test automation solution.
+This framework reflects real-world best practices in UI automation, emphasizing clean code architecture, `data-driven testing`, `modular design`, and `maintainable reporting/logging` structures. It serves as a comprehensive learning and demonstration project for QA professionals and developers aiming to understand or showcase a fully integrated test automation solution.
 
 The project is ideal for:
 
@@ -118,19 +118,28 @@ Example coverage includes:
 - 
 - 
 - 
+-------------------
 
-
-Legend
+-------------------
 - ✅ - Done
 - 🛠️ - In Progress  
 - 🚧 - Under Construction  
 - ⏳ - Ongiong
-
+-------------------
 ## 🙋‍♂️ Author
 
-👤 Arun Kumar  
+👤 Arun Kumar M.S.
 📫 Connect: [LinkedIn](https://www.linkedin.com/in/kumar-tvm)
 
 > Contributions, suggestions, and feedback are welcome!
+## 🔗 Related Repositories
+
+- ☕ **Core Java Practice**  
+  [Java_Tests →](https://github.com/kumar-w0rkspace/Java_Tests)  
+  Practice programs and foundational Java concepts for QA automation.
+
+- 🧪 **Selenium Basics**  
+  [Selenium_Basics →](https://github.com/kumar-w0rkspace/Selenium_Basics)  
+  Hands-on Selenium WebDriver examples covering UI automation fundamentals.
 
 
