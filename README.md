@@ -8,17 +8,14 @@
 
 
 A robust, scalable, and modular `Selenium` Test Automation Framework built using `Java`, following the Page Object Model (POM) design pattern, integrated with industry-standard tools like `TestNG`, `Log4j2`, `ExtentReports`, and `Apache POI`.
-
 This framework reflects real-world best practices in UI automation, emphasizing clean code architecture, `data-driven testing`, `modular design`, and `maintainable reporting/logging` structures. It serves as a comprehensive learning and demonstration project for QA professionals and developers aiming to understand or showcase a fully integrated test automation solution.
 
 The project is ideal for:
-
 🔹 Learning purposes: Understand how each tool fits into a complete framework  
 🔹 Professional portfolios: Showcase framework skills during interviews or online  
 🔹 Rapid setup: Use it as a boilerplate to kickstart enterprise-level automation projects  
 
 This framework emphasizes:
-
 - 🔁 Modularity: Page Object Model & utility-driven design  
 - 🔍 Readability: Intuitive method names and logical folder structure  
 - 📊 Traceability: Clear reports, structured logs, and organized screenshots  
@@ -74,7 +71,7 @@ AutomationTest_PracticeSite/
 ├── .gitignore                 # Excludes logs, target, test-output, etc.
 ├── uBlock.xpi                 # Firefox adblocker extension for test stability
 
-├── test-output/               # Auto-generated TestNG reports (GIT IGNORED)
+├── test-output/               # Auto-generated TestNG reports (IGNORED)
 
 ├── demo-logs/                 # Static Log4j2 demo logs
 │   └── sampleLog4j2.txt       # Snapshot of Log4j2 logs (for demo)
@@ -85,7 +82,7 @@ AutomationTest_PracticeSite/
 ├── screenshots/               # Screenshots captured during test execution
 ├── testCasesImages/           # Static image assets for test steps
 ├── testData/                  # Excel or CSV files for data-driven testing
-├── target/                    # Maven compiled classes and reports (GIT IGNORED)
+├── target/                    # Maven compiled classes and reports (IGNORED)
 
 ├── src/
 │   └── test/
@@ -100,10 +97,7 @@ AutomationTest_PracticeSite/
 │           ├── config.properties    # Centralized framework config
 │           └── log4j2.xml           # Logging configuration for Log4j2
 
-
 ```
-
-
 ## ⚙️ Tools & Technologies Used
 
 | Category       | Tool/Library                  |
@@ -120,17 +114,37 @@ AutomationTest_PracticeSite/
 ## 🔄 Future Updates
 
 This framework is a work-in-progress and will continue to evolve. Planned enhancements include:
-- Cross-browser and parallel execution support
-- Cloud/grid integration (Selenium Grid, BrowserStack)
-- Integration with CI/CD tools (GitHub Actions, Jenkins)
+- Cross-browser and parallel execution support (Chrome, Firefox, Edge)
+- Cloud/grid integration (Selenium Grid)
+- Integration with CI/CD tools (Jenkins)
 
-Example coverage includes:
-- ✅ User registration and login flow  
-- 
-- 
-- 
-- 
-
+Coverage includes:
+- Register User ✅
+- Login User with correct email and password 🛠️ 
+- Login User with incorrect email and password
+- Logout User
+- Register User with existing email
+- Contact Us Form
+- Verify Test Cases Page
+- Verify All Products and product detail page
+- Search Product
+- Verify Subscription in home page
+- Verify Subscription in Cart page
+- Add Products in Cart
+- Verify Product quantity in Cart
+- Place Order: Register while Checkout
+- Place Order: Register before Checkout
+- Place Order: Login before Checkout
+- Remove Products From Cart
+- View Category Products
+- View & Cart Brand Products
+- Search Products and Verify Cart After Login
+- Add review on product
+- Add to cart from Recommended items
+- Verify address details in checkout page
+- Download Invoice after purchase order
+- Verify Scroll Up using 'Arrow' button and Scroll Down functionality
+- Verify Scroll Up without 'Arrow' button and Scroll Down functionality
 -------------------
 - ✅ - Done
 - 🛠️ - In Progress  
@@ -147,7 +161,6 @@ Example coverage includes:
 - 🧪 **Selenium Basics**  
   [Selenium_Basics →](https://github.com/kumar-w0rkspace/Selenium_Basics)  
   Hands-on Selenium WebDriver examples covering UI automation fundamentals.
-
 
 ## 🙋‍♂️ Author
 
