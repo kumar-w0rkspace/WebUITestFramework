@@ -1,19 +1,22 @@
-# Eclipse settings
+# === IDE Specific ===
 .project
 .classpath
 .settings/
 
-# Maven build output
+# === Maven Output ===
 target/
+
+# === TestNG Output (ignored runtime logs, keep demo separately) ===
 test-output/
 
-# Logs
+# === Logs (keep demo-logs folder separate) ===
+logs/
 *.log
 
-# OS-specific
+# === OS-Specific Files ===
 Thumbs.db
 
-# Temp or backup files
+# === Temporary/Backup Files ===
 *.tmp
 *.bak
 *.swp
