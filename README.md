@@ -69,28 +69,29 @@ This framework emphasizes:
 
 ```
 AutomationTest_PracticeSite/
-├── pom.xml             # Maven build configuration
-├── README.md           # Project documentation
-├── uBlock.xpi          # Firefox adblocker extension for test stability
-├── test-output/        # Auto-generated TestNG reports
-├── logs/               # Application logs generated via Log4j2
-├── reports/            # ExtentReports HTML output
-├── screenshots/        # Screenshots during test execution
-├── testCasesImages/    # Static image assets for test cases
-├── testData/           # Excel or CSV files used for data-driven testing
-├── target/             # Maven compiled classes and reports
+├── pom.xml                    # Maven build configuration
+├── README.md                  # Project documentation
+├── uBlock.xpi                 # Firefox adblocker extension for test stability
+├── test-output/               # Auto-generated TestNG reports (GIT IGNORED)
+├── logs/                      # Log4j2 execution logs (GIT IGNORED)
+│   └── sampleLog4j2_TXT       # Snapshot of Log4j2 reports in text for demo
+├── reports/                   # ExtentReports HTML output
+│   └── demo-testng-outputs/   # Static demo: index.html, emailable-report.html
+├── screenshots/               # Screenshots captured during test execution
+├── testCasesImages/           # Static image assets for test steps
+├── testData/                  # Excel or CSV files for data-driven testing
+├── target/                    # Maven compiled classes and reports (GIT IGNORED)
 ├── src/
-│   ├── test/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── automationtestexercise/
-│   │   │           ├── pageObjects/    # Page Object Model classes
-│   │   │           ├── testBase/       # WebDriver config & base setup
-│   │   │           ├── testCases/      # Test classes using TestNG
-│   │   │           └── utilities/      # Common helpers (paths, waits, logger)
 │   └── test/
+│       ├── java/
+│       │   └── com/
+│       │       └── automationtestexercise/
+│       │           ├── pageObjects/    
+│       │           ├── testBase/       
+│       │           ├── testCases/      
+│       │           └── utilities/      
 │       └── resources/
-│           └── log4j2.xml    # Log4j2 configuration file
+│           └── log4j2.xml     # Log4j2 configuration
 
 ```
 
