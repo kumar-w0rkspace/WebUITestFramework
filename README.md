@@ -52,6 +52,8 @@ The project is ideal for:
 ---
 
 ## 🏗️ Project Structure
+
+```
 AutomationTest_PracticeSite/
 ├── pom.xml                      # Maven build configuration
 ├── README.md                    # Project documentation
@@ -75,6 +77,9 @@ AutomationTest_PracticeSite/
 │   └── test/
 │       └── resources/
 │           └── log4j2.xml       # Log4j2 configuration file
+
+```
+
 
 
 ## ⚙️ Tools & Technologies Used
