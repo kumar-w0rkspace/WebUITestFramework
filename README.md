@@ -118,7 +118,6 @@ Example coverage includes:
 - 
 - 
 - 
--------------------
 
 -------------------
 - ✅ - Done
@@ -126,12 +125,7 @@ Example coverage includes:
 - 🚧 - Under Construction  
 - ⏳ - Ongiong
 -------------------
-## 🙋‍♂️ Author
 
-👤 Arun Kumar M.S.
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/kumar-tvm)
-
-> Contributions, suggestions, and feedback are welcome!
 ## 🔗 Related Repositories
 
 - ☕ **Core Java Practice**  
@@ -143,3 +137,7 @@ Example coverage includes:
   Hands-on Selenium WebDriver examples covering UI automation fundamentals.
 
 
+## 🙋‍♂️ Author
+
+👤 Arun Kumar M.S.
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/kumar-tvm)
