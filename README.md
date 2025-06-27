@@ -26,13 +26,6 @@ This framework emphasizes:
 
 📌 More features and improvements will be added as the framework matures.
 
-Example coverage includes:
-- ✅ User registration and login flow  
-- ✅ - Done
-- 🛠️ - In Progress  
-- 🚧 - Under Construction  
-- ⏳ - Ongiong
-
 ---
 
 ## 🚀 Key Features
@@ -118,6 +111,20 @@ This framework is a work-in-progress and will continue to evolve. Planned enhanc
 - Cross-browser and parallel execution support
 - Cloud/grid integration (Selenium Grid, BrowserStack)
 - Integration with CI/CD tools (GitHub Actions, Jenkins)
+
+Example coverage includes:
+- ✅ User registration and login flow  
+- 
+- 
+- 
+- 
+
+
+Legend
+- ✅ - Done
+- 🛠️ - In Progress  
+- 🚧 - Under Construction  
+- ⏳ - Ongiong
 
 ## 🙋‍♂️ Author
 
