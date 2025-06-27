@@ -1,0 +1,21 @@
+# Eclipse settings
+.project
+.classpath
+.settings/
+
+# Maven build output
+target/
+
+# Logs
+*.log
+logs/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temp or backup files
+*.tmp
+*.bak
+*.swp
+*~

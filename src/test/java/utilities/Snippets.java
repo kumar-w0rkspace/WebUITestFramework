@@ -1,6 +1,6 @@
 package utilities;
 
-public class TestPath {
+public class Snippets {
 
 	public static void main(String[] args) {
 		
