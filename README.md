@@ -1,4 +1,5 @@
-# AutomationTest_PracticeSite
+# AutomationTestPracticeSite
+
 
 A robust, scalable, and modular **Selenium Test Automation Framework** built using **Java**, designed to demonstrate industry-standard practices in UI testing for web applications.
 
@@ -14,7 +15,7 @@ This project is created for **learning**, **demonstration**, and **portfolio pur
 
 ✅ **TestNG Integration**  
 - Supports parallel test execution, grouping, and prioritization  
-- Includes `@BeforeClass`, `@AfterMethod`, and parameterization features
+- Includes `@Annotations`, properties and parameterization features
 
 ✅ **Apache POI for Excel-based Data-Driven Testing**  
 - External test data managed using Excel sheets  
