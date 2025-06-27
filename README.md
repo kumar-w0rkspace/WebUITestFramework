@@ -1,19 +1,39 @@
 # Automation Test Practice Site
+<p align="center">
+  <a href="https://automationexercise.com/">
+    <img src="https://automationexercise.com/static/images/home/logo.png" alt="Automation Practice Logo" width="250"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://automationexercise.com/">Visit the Automation Practice Site</a>
+</p>
 
- A robust, scalable, and modular Selenium Test Automation Framework built using Java, following the Page Object Model (POM) design pattern, integrated with industry-standard tools like TestNG, Log4j2, ExtentReports, and Apache POI.
+A robust, scalable, and modular Selenium Test Automation Framework built using Java, following the Page Object Model (POM) design pattern, integrated with industry-standard tools like TestNG, Log4j2, ExtentReports, and Apache POI.
 
-This framework is designed to reflect real-world best practices in UI automation, emphasizing clean code architecture, data-driven testing, and maintainable reporting and logging structures. It serves as a comprehensive learning and demonstration project for QA professionals and developers seeking to understand or showcase a fully integrated test automation solution.
+This framework reflects real-world best practices in UI automation, emphasizing clean code architecture, data-driven testing, modular design, and maintainable reporting/logging structures. It serves as a comprehensive learning and demonstration project for QA professionals and developers aiming to understand or showcase a fully integrated test automation solution.
 
 The project is ideal for:
 
-    🔹 Learning purposes: Understand how each tool fits into a complete framework
+🔹 Learning purposes: Understand how each tool fits into a complete framework  
+🔹 Professional portfolios: Showcase framework skills during interviews or online  
+🔹 Rapid setup: Use it as a boilerplate to kickstart enterprise-level automation projects  
 
-    🔹 Professional portfolios: Display framework skills on GitHub or during interviews
+This framework emphasizes:
 
-    🔹 Rapid setup: Use it as a boilerplate to kickstart enterprise-level automation projects
+- 🔁 Modularity: Page Object Model & utility-driven design  
+- 🔍 Readability: Intuitive method names and logical folder structure  
+- 📊 Traceability: Clear reports, structured logs, and organized screenshots  
+- 🧪 Scalability: Easily extendable to more complex projects and test suites  
 
+📌 More features and improvements will be added as the framework matures.
 
+Example coverage includes:
+- ✅ User registration and login flow  
+- ✅ - Done
+- 🛠️ - In Progress  
+- 🚧 - Under Construction  
+- ⏳ - Ongiong
 
 ---
 
@@ -94,5 +114,18 @@ AutomationTest_PracticeSite/
 | Versioning     | Git + GitHub                  |
 | IDE            | Eclipse                       |
 
+## 🔄 Future Updates
+
+This framework is a work-in-progress and will continue to evolve. Planned enhancements include:
+- Cross-browser and parallel execution support
+- Cloud/grid integration (Selenium Grid, BrowserStack)
+- Integration with CI/CD tools (GitHub Actions, Jenkins)
+
+## 🙋‍♂️ Author
+
+👤 Arun Kumar  
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/kumar-tvm)
+
+> Contributions, suggestions, and feedback are welcome!
 
 
