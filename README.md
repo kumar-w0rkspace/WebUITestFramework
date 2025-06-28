@@ -26,6 +26,7 @@ This framework emphasizes:
 📌 More features and improvements will be added as the framework matures.
 
 > 🔍 Note: These folders are added only for demonstration purposes.
+
 > `reports/demo-testng-output/`   
 > `demo_logs` 
 > 
