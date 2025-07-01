@@ -1,0 +1,35 @@
+22:54:07.608 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:54:07.624 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:54:07.625 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:54:07.625 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:54:07.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:54:07.632 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:54:07.632 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:54:07.634 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:54:07.634 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:54:07.636 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+22:54:07.669 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 31 ms.
+22:54:07.673 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:54:07.673 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:54:07.673 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:54:07.673 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:54:07.693 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ARUN\AppData\Local\Temp\testng-eclipse-1286008058\testng-customsuite.xml
+
+22:54:07.740 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+22:54:24.241 [main] INFO  testCases.TC001_Register_User - **** Veryfing Home Page Visibility ****
+22:54:24.400 [main] INFO  testCases.TC001_Register_User - **** Clicking on SignUp ****
+22:54:25.857 [main] INFO  testCases.TC001_Register_User - **** Verifying New User SignUp! message ****
+22:54:25.926 [main] INFO  testCases.TC001_Register_User - **** Signing up new user ****
+22:54:29.483 [main] INFO  testCases.TC001_Register_User - **** Veryfing ENTER ACCOUNT INFORMATION visibility ****
+22:54:29.536 [main] INFO  testCases.TC001_Register_User - **** Providing User Details ****
+22:54:36.223 [main] INFO  testCases.TC001_Register_User - **** Veryfing ACCOUNT CREATED! message ****
+22:54:39.923 [main] INFO  testCases.TC001_Register_User - **** Veryfing Logged in as _User Name_ message ****
+22:54:41.506 [main] INFO  testCases.TC001_Register_User - *** Veryfing ACCOUNT DELETED! message ****
+22:54:41.544 [main] INFO  testCases.TC001_Register_User - **** Clicking continue button ****
+22:54:45.678 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@72456279: 130 ms
+22:54:45.680 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4d192aef: 2 ms
+22:54:45.706 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@710d89e2: 24 ms
+22:54:45.716 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2b22a1cc: 10 ms
+22:54:45.731 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3936df72: 15 ms
+22:54:45.732 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@e8e0dec: 1 ms
