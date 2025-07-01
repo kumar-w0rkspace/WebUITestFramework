@@ -28,7 +28,7 @@ This framework emphasizes:
 > 🔍 Note: These folders are added only for demonstration purposes.
 >
 > `reports/demo-testng-output/`   
-> `demo_logs` 
+> `demo_logs, the files are renamed to txt` 
 >
 > 
 > This shows what the native output looks like after a successful test execution.
